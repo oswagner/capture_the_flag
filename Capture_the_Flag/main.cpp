@@ -1,6 +1,7 @@
 //
 //  main.cpp
 //  Capture_the_Flag
+// Renata Soria e Wagner Santos
 //
 
 #include <SFML/Audio.hpp>
